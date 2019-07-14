@@ -15,8 +15,6 @@ A good recommendation system is which deliver the right content to the right peo
 * dimensionality reduction
 * recommender systems
 
-#### Analysis:
-* unsupervised learning is required, other types of modeling (listed above) are encouraged.
 
 #### Deliverable/communication:
 * organized project repository
